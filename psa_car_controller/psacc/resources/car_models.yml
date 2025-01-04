@@ -661,3 +661,11 @@
   fuel_capacity: 52
   abrp_name:
   reg: VR3FPHNSTP.*
+- !CarModel
+  name: 508 2.0 BlueHDI 180cv
+  battery_power: 0
+  fuel_capacity: 70
+  abrp_name:
+  reg: VF38DAHWTG.*
+  max_elec_consumption: 0
+  max_fuel_consumption: 30
